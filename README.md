@@ -33,12 +33,6 @@ MediaCrawler视频教程课程已录制完结，包含入门教程使用、源�
 | B 站 |     ✅     |   ✅   | ✕     |   ✅   |       ✅       |   ✅    |  ✅   |   ✅    |   ✕   |
 | 微博  |     ✅      |   ✅    | ✕     |   ✅    |       ✅        |    ✅    |   ✅   |    ✅    |   ✕   |
 
-## MediaCrawler爬虫项目交流群：
-> 7天有效期，自动更新
-
-<div style="max-width: 200px">  
-
-![img.png](static/images/3群二维码.jpg)
 
 </div>
 
@@ -95,17 +89,7 @@ MediaCrawler视频教程课程已录制完结，包含入门教程使用、源�
 - 支持保存到csv中（data/目录下）
 - 支持保存到json中（data/目录下）
 
-## 打赏
-免费开源不易，如果项目帮到你了，可以给我打赏哦，您的支持就是我最大的动力！
-<div style="display: flex;justify-content: space-between;width: 100%">
-    <p><img alt="打赏-微信" src="static/images/wechat_pay.jpeg" style="width: 200px;height: 100%" ></p>
-    <p><img alt="打赏-支付宝" src="static/images/zfb_pay.png"   style="width: 200px;height: 100%" ></p>
-</div>
 
-
-
-## 运行报错常见问题Q&A
-> 遇到问题先自行搜索解决下，现在AI很火，用ChatGPT大多情况下能解决你的问题 [免费的ChatGPT](https://sider.ai/ad-land-redirect?source=github&p1=mi&p2=kk)  
 
 ➡️➡️➡️ [常见问题](docs/常见问题.md)
 
